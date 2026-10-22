@@ -1,0 +1,6 @@
+interface:
+  display_name: "DM-gzh-cover"
+  short_description: "确认公众号名称后自动选图制作，使用中国人物或无人场景，不显示期数"
+  default_prompt: "使用 $DM-gzh-cover 制作公众号封面，先询问我的公众号名称，自动择优选图并完成制作，人物使用中国背景素材或改用无人场景，默认不显示 EP 期数。"
+policy:
+  allow_implicit_invocation: true
